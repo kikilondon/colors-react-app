@@ -1,6 +1,6 @@
 # HTML COLORS
 
-This app lets you insert the HTML colour name and get the hex colour code. It is built with Javascript and React.js.
+This project is a React.js app that lets you insert the HTML colour name and returns the hex colour code. 
 
 ![Screenshot 2023-03-13 at 13 49 57](https://user-images.githubusercontent.com/108157135/224724204-2bf615e0-b586-4757-86b9-d7258ba698c1.png)
 ![Screenshot 2023-03-13 at 13 50 11](https://user-images.githubusercontent.com/108157135/224724209-321054ce-ad7b-4916-b7df-beb648054841.png)
